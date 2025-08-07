@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**I work at the iÏntersection of nonlinear dynamics and machine learning — and I’m actively looking for collaborations.**  
+**I work at the Ïntersection of nonlinear dynamics and machine learning — and I’m actively looking for collaborations.**  
 If you’re exploring data-driven modeling of complex systems, dynamical networks, or ML for time-delay/oscillatory phenomena, let’s talk.
 
 I’m an Associate Professor in the Department of Physics, School of Engineering & Applied Sciences, Bennett University (Greater Noida, India). My background spans postdoctoral work in computational neuroscience and dynamical systems, and faculty roles across Indian universities.
