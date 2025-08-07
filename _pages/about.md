@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**I work at the intersection of nonlinear dynamics and machine learning — and I’m actively looking for collaborations.**  
+**I work at the iÏntersection of nonlinear dynamics and machine learning — and I’m actively looking for collaborations.**  
 If you’re exploring data-driven modeling of complex systems, dynamical networks, or ML for time-delay/oscillatory phenomena, let’s talk.
 
-## About
 I’m an Associate Professor in the Department of Physics, School of Engineering & Applied Sciences, Bennett University (Greater Noida, India). My background spans postdoctoral work in computational neuroscience and dynamical systems, and faculty roles across Indian universities.
 
 - **Current:** Associate Professor, Bennett University (2022–present)  
